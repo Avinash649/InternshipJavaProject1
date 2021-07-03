@@ -6,7 +6,8 @@ import java.text.*;
 public class LoanAssistant extends JFrame {
 	 JLabel balanceLabel = new JLabel();
 	    JTextField balanceTextField = new JTextField();
-	    JLabel interestLabel = new JLabel();
+	    JLabel interestLabel
+	    = new JLabel();
 	    JTextField interestTextField = new JTextField();
 	    JLabel monthsLabel = new JLabel();
 	    JTextField monthsTextField = new JTextField();
